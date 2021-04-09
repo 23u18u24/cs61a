@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29bc89d8-128c-4c0f-9fe0-64ce09679580" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pKLnphomvz8IvoDMjyB6QSJLQA" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ub">
+    <configuration name="ub" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in hog" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="hog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hog.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ub" />
+        <item itemvalue="Python tests.Doctests in hog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29bc89d8-128c-4c0f-9fe0-64ce09679580" name="Default Changelist" comment="" />
+      <created>1614927004442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614927004442</updated>
+      <workItem from="1614927007042" duration="6684000" />
+      <workItem from="1614942178201" duration="4177000" />
+      <workItem from="1614947915126" duration="8000" />
+      <workItem from="1615005329896" duration="9752000" />
+      <workItem from="1615030898126" duration="8026000" />
+      <workItem from="1615099863737" duration="10078000" />
+      <workItem from="1615111011266" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="870" y="163" key="FileChooserDialogImpl" timestamp="1615111034166">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="870" y="163" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1615111034166" />
+    <state width="750" height="175" key="GridCell.Tab.0.bottom" timestamp="1615110119874">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="750" height="175" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1615110119874" />
+    <state width="750" height="175" key="GridCell.Tab.0.center" timestamp="1615110119874">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="750" height="175" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1615110119874" />
+    <state width="750" height="175" key="GridCell.Tab.0.left" timestamp="1615110119874">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="750" height="175" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1615110119874" />
+    <state width="750" height="175" key="GridCell.Tab.0.right" timestamp="1615110119874">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="750" height="175" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1615110119874" />
+    <state width="1220" height="244" key="GridCell.Tab.1.bottom" timestamp="1615039333036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1220" height="244" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1615039333036" />
+    <state width="1220" height="244" key="GridCell.Tab.1.center" timestamp="1615039333036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1220" height="244" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1615039333036" />
+    <state width="1220" height="244" key="GridCell.Tab.1.left" timestamp="1615039333035">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1220" height="244" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1615039333035" />
+    <state width="1220" height="244" key="GridCell.Tab.1.right" timestamp="1615039333036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1220" height="244" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1615039333036" />
+    <state x="540" y="92" key="SettingsEditor" timestamp="1614927038542">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="540" y="92" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1614927038542" />
+    <state x="874" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1615111011141">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="874" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1615111011141" />
+    <state x="798" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1615106172143">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="798" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1615106172143" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hog$ub.coverage" NAME="ub Coverage Results" MODIFIED="1615109901718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hog$Doctests_in_hog.coverage" NAME="Doctests in hog Coverage Results" MODIFIED="1615033636207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
